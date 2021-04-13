@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @burfil
 - 👀 I’m interested in game development and mobile development
-- 🌱 I’m currently learning unity
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning iOS development, Swift
 - 📫 How to reach me ...
 
 <!---
